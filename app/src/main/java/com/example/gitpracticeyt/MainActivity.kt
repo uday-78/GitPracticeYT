@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("This is contained in my second commit")
-        println("CHANGE 1")
+        println("CHANGE 2")
     }
 }
